@@ -49,4 +49,6 @@ A fully functional **Stopwatch** built using HTML, CSS, and JavaScript. This pro
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/wajiha-kulsum/stopwatch.git
+   git clone https://github.com/wajiha-kulsum/PRODIGY_WD_02.git
+
+
